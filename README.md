@@ -84,9 +84,10 @@ The application runs in two parts. You will need two separate terminals.
 ## Project Structure
 ```
 .
-├── main.py           # FastAPI backend: trains model, saves artifacts, and serves API
-├── ui.py             # Streamlit frontend: user interface for prediction
-├── requirements.txt  # Project dependencies
-├── .gitignore        # Files and folders to be ignored by Git
-└── README.md         # This file
+├── .gitignore # Files and folders to be ignored by Git
+├── LICENSE # Project's open-source license
+├── README.md # This documentation file
+├── main.py # FastAPI backend: trains model and serves API
+├── requirements.txt # Project dependencies
+└── ui.py # Streamlit frontend: user interface for prediction
 ```
