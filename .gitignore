@@ -1,0 +1,14 @@
+# Python virtual environment
+/final_env/
+__pycache__/
+*.pyc
+
+# Dataset file (often large and not versioned)
+*.csv
+
+# Saved model artifacts (these are binary and can be large)
+*.joblib
+
+# IDE-specific files
+.idea/
+.vscode/
