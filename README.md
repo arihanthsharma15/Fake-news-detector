@@ -2,7 +2,6 @@
 
 This project is a web application that classifies news articles as either "REAL" or "FAKE". It uses a Machine Learning model trained on a publicly available dataset and provides a real-time detection interface.
 
-
 ## Features
 - **Machine Learning Model:** Utilizes a **Logistic Regression** classifier for prediction.
 - **NLP Technique:** Employs **TF-IDF** for text feature extraction.
@@ -32,8 +31,8 @@ This project is a web application that classifies news articles as either "REAL"
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[Your-GitHub-Username]/[Your-Repo-Name].git
-    cd [Your-Repo-Name]
+    git clone https://github.com/arihanthsharma15/Fake-news-detector.git
+    cd Fake-news-detector
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -60,7 +59,7 @@ This project is a web application that classifies news articles as either "REAL"
     ```bash
     python main.py
     ```
-    This will also start the backend server, but you can stop it with `Ctrl+C` after the model files are saved.
+    You can stop this script with `Ctrl+C` after the model files are saved.
 
 ---
 
