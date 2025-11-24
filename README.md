@@ -30,11 +30,16 @@ This project is a web application that classifies news articles as either "REAL"
 
 ### Setup and Installation
 
-1.  **Clone the repository:**
-    ```bash
+### 1. Clone the Repository
+
+First, clone this repository to your local machine. This will create a `Fake-news-detector` folder with all the project files.
+
+```bash
+# Clone the project from GitHub
 git clone https://github.com/arihanthsharma15/Fake-news-detector.git
+
+# Navigate into the newly created project directory
 cd Fake-news-detector
-    ```
 
 2.  **Create and activate a virtual environment:**
     ```bash
