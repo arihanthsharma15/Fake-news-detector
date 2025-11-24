@@ -32,8 +32,8 @@ This project is a web application that classifies news articles as either "REAL"
 
 1.  **Clone the repository:**
     ```bash
-   git clone https://github.com/arihanthsharma15/Fake-news-detector.git
-   cd Fake-news-detector
+git clone https://github.com/arihanthsharma15/Fake-news-detector.git
+cd Fake-news-detector
     ```
 
 2.  **Create and activate a virtual environment:**
